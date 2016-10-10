@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lai.assign1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lai_assign1_jar</output-path>
+    <root id="archive" name="lai.assign1.jar">
+      <element id="module-output" name="lai.assign1" />
+    </root>
+  </artifact>
+</component>

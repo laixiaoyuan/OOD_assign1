@@ -1,0 +1,1 @@
+READMEXiaoyuan LaiCOEN275 Object-Oriented Analysis, Design and ProgrammingAssignment 1Using IntelliJ, Java version 1.8jar file in /out/artifacts/lai_assign1_jar/lai.assign1.jar
